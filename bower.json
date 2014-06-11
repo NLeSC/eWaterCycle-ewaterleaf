@@ -1,0 +1,11 @@
+{
+  "name": "ewaterleaf",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "leaflet": "~0.7.3",
+    "leaflet.loading": "~0.1.11",
+    "d3": "~3.4.8"
+  },
+  "devDependencies": {}
+}
