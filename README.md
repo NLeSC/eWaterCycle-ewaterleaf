@@ -18,7 +18,7 @@ The Latest Version
 
 The latest version of this webapp can be found at
 
-<https://github.com/NLeSC/eWaterCycle-ewaterleaf>.
+<https://github.com/eWaterCycle/eWaterleaf>.
 
 
 Documentation
