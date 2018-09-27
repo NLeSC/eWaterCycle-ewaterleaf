@@ -1,7 +1,7 @@
 # YAML 1.2
 ---
 abstract: "This is the first (pre) release of the eWaterLeaf web visualization. It combines ncWMS with Leaflet for a fast and simple online geo netcdf dataset browser."
-authors: 
+authors:
   -
     affiliation: "Netherlands eScience Center"
     family-names: Drost
@@ -9,8 +9,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-9795-7981"
 cff-version: "1.0.3"
 date-released: 2016-08-11
-doi: "10.5281/zenodo.60030"
-keywords: 
+keywords:
   - leaflet
   - visualization
   - ncWMS
