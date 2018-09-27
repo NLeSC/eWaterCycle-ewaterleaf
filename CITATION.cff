@@ -19,5 +19,5 @@ license: "Apache-2.0"
 message: "If you use this software, please cite it using these metadata."
 repository-code: "https://github.com/eWaterCycle/eWaterleaf"
 title: eWaterleaf
-version: "v0.1"
+version: "v0.1.2"
 ...
